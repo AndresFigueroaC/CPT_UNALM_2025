@@ -1,5 +1,4 @@
 # Curso CPT UNALM 2025
-# 📊 Curso CPT UNALM 2025
 
 ![Banner CPT 2025](CPT_IMAGEN_CURSO.png)
 
@@ -7,7 +6,7 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-## 🧠 BLOQUE 1: Introducción al CPT y conceptos base
+## BLOQUE 1: Introducción al CPT y conceptos base
 
 **🎯 Objetivo:** Comprender el propósito del CPT y los fundamentos del pronóstico estadístico.
 
@@ -24,7 +23,7 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-## ⚙️ BLOQUE 2: Preparación, carga y ejecución de un pronóstico básico
+## ⚙BLOQUE 2: Preparación, carga y ejecución de un pronóstico básico
 
 **🎯 Objetivo:** Aprender a preparar datos, cargarlos y generar un pronóstico en CPT.
 
@@ -43,7 +42,7 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-## 🔄 BLOQUE 3: Manejo de formatos y conversión de datos externos
+## BLOQUE 3: Manejo de formatos y conversión de datos externos
 
 **🎯 Objetivo:** Entender y aplicar herramientas para transformar datos externos al formato requerido por CPT.
 
@@ -60,7 +59,7 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-## 🌍 BLOQUE 4: Pronóstico con datos grillados de fuentes externas
+## BLOQUE 4: Pronóstico con datos grillados de fuentes externas
 
 **🎯 Objetivo:** Utilizar datos grilla (fuera del IRI/CPT) como predictandos.
 
@@ -74,7 +73,7 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-## 📈 BLOQUE 5: Pronóstico con datos observados de estaciones  
+## BLOQUE 5: Pronóstico con datos observados de estaciones  
 **(CASO PRÁCTICO: INUNDACIONES)**
 
 **🎯 Objetivo:** Aplicar el CPT con datos locales u operativos de estaciones meteorológicas.
@@ -91,5 +90,29 @@ Este repositorio contiene el material del **Curso CPT UNALM 2025**, centrado en 
 
 ---
 
-### 📂 Estructura del repositorio
+📌 A lo largo del curso se irán agregando:
+- Material de practica (datos) 
+- Códigos en Python para automatizar flujos
+- Información, etc.
+- 
+---
+
+## 🌐 Fuentes de datos útiles
+
+- 🔗 **Visor ANA**: [https://snirh.ana.gob.pe/VisorPorCuenca/](https://snirh.ana.gob.pe/VisorPorCuenca/)  
+  Contiene datos hidrológicos: precipitación, caudal, nivel de agua, embalses, etc.
+
+- 🔗 **Estaciones SENAMHI**: [https://www.senamhi.gob.pe/servicios/?p=estaciones](https://www.senamhi.gob.pe/servicios/?p=estaciones)  
+  Datos meteorológicos como precipitación, temperatura, humedad relativa, entre otros.
+
+---
+
+## 📚 Referencias
+
+- Climate Predictability Tool (CPT) User Guide:  
+  [https://iri.columbia.edu/~awr/wiki/Downscaling/HydroOutlooks/Documents/cpttutorial_june08.pdf](https://iri.columbia.edu/~awr/wiki/Downscaling/HydroOutlooks/Documents/cpttutorial_june08.pdf)
+
+---
+
+© 2025 - Curso CPT UNALM | Elaborado por **Andres Figueroa**
 
